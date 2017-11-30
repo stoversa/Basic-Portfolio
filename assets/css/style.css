@@ -39,27 +39,27 @@ header {
 	margin: auto;
 }
 
-h1, h2 {
+h1, h2, h3 {
 	font-family: 'Georgia', Times, Times New Roman, serif;
 	color:#4aaaa5; /*teal*/
 	font-weight:bold;
 }
 
-h1 {
+h1, h2 {
 	font-size:30px;
 }
 
-.h1border {
+.h2border {
 	border-bottom: 2px solid #cccccc;
 	padding-bottom:10px;
 	margin-bottom: 20px;
 }
 
-h2 {
+h3 {
 	font-size:20px;
 }
 
-.h2border {
+.h3border {
 	border-bottom: 1px solid #cccccc;
 	padding-bottom:10px;
 	margin-bottom: 20px;
